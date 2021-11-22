@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Tyglot/tyglot-frontend">
-    <img src="./assets/logotype/tyglot@2x.png" alt="Logo" width="auto" height="100">
+    <img src="../assets/logotype/tyglot@2x.png" alt="Logo" width="auto" height="100">
   </a>
 
   <p align="center">
@@ -55,4 +55,4 @@ Project Link: [https://github.com/Tyglot/tyglot-frontend](https://github.com/Tyg
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: './assets/logotype/tyglot@2x.png'
+[product-screenshot]: '../assets/logotype/tyglot@2x.png'
