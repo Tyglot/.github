@@ -3,21 +3,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Tyglot/tyglot-frontend">
-    <img src="../assets/logotype/tyglot@2x.png" alt="Logo" width="auto" height="100">
-  </a>
 
   <p align="center">
    Social network for cultural exchange for people looking to practice languages and meet people from anywhere in the world
     <br />
-    <a href="https://github.com/Tyglot/tyglot-frontend"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Tyglot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.figma.com/file/hAG4tbQUraDYqkJTvJ7wfJ/TYGLOT-%7C-1.0-%7C-Prototype?node-id=312%3A332">View Prototype</a>
-    ·
-    <a href="https://github.com/Tyglot/tyglot-frontend/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Tyglot/tyglot-frontend/pulls">Request Feature</a>
   </p>
 </div>
 
