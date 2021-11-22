@@ -40,8 +40,6 @@ Dheyson Alves - [@DheysonAlves2](https://twitter.com/DheysonAlves2) - dheyson10@
 
 Melqui Brito - melquibrito07@gmail.com
 
-Project Link: [https://github.com/Tyglot/tyglot-frontend](https://github.com/Tyglot/tyglot-frontend)
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
