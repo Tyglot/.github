@@ -4,13 +4,13 @@
 <br />
 <div align="center">
 
-  <h3 align="center">
+  <h1 align="center">
    Social network for cultural exchange for people looking to practice languages and meet people from anywhere in the world
     <br />
+    <br />
+  </h1>
     <a href="https://github.com/Tyglot"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-  </h3>
+
 </div>
 
 <!-- TABLE OF CONTENTS -->
