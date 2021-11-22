@@ -34,7 +34,7 @@ The software seeks to present a social network for cultural exchange and languag
 
 ## Contact
 
-Andre Felipe
+Andre Felipe - andrefilipe156422@gmail.com
 
 Dheyson Alves - [@DheysonAlves2](https://twitter.com/DheysonAlves2) - dheyson10@gmail.com
 
